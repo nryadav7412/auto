@@ -52,5 +52,5 @@ Only Working In The Discussion Group Of
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/nryadav/Adv-Auto-Filter-Bot">Here</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/nryadav7412/Adv-Auto-Filter-Bot">Here</a></i>
 """
